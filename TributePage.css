@@ -2,7 +2,16 @@
     text-align: center;
 }
 
+#title, #caption {
+    padding: 0;
+}
+
+#caption {
+    margin-top: -20px;
+}
+
 .header_background {
+    margin-top: -10px;
     width: 100%;
     height: auto;
     background-color: rgb(230, 230, 230);
