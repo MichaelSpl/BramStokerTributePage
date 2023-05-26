@@ -1,19 +1,24 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
 #main {
     text-align: center;
 }
 
 #title, #caption {
-    padding: 0;
+   padding: 20px 0;
 }
 
 #caption {
-    margin-top: -20px;
+    margin-top: -50px;
 }
 
 .header_background {
-    margin-top: -10px;
     width: 100%;
-    height: auto;
+    height: 100px;
+    margin-top: -22px;
     background-color: rgb(230, 230, 230);
 }
 
